@@ -24,4 +24,4 @@ Ferramentas:
 
 Redes sociais:
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-alexandre-masuzaki-da-silva-688b87249/) [![steam](https://img.shields.io/badge/Steam-005C84?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Il Louiz lI/)
