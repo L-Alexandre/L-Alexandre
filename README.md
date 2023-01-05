@@ -1,4 +1,5 @@
 Atualmente estou estudando:
+
 - Analise e Desenvolvimento de Sistemas na Estacio;
 - Formação Java na Alura;
 - Formação UI/UX na Alura;
