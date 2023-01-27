@@ -1,9 +1,7 @@
 Atualmente estou estudando:
 
 - Analise e Desenvolvimento de Sistemas na Estacio;
-- Formação Java na Alura;
-- Formação UI/UX na Alura;
-- Formação SQL na Alura.
+- Alura: [Plano de estudo](https://cursos.alura.com.br/user/luizaki/planos-de-estudo)
 
 Cursos concluidos:
 
