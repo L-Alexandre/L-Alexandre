@@ -24,5 +24,5 @@ Ferramentas:
 
 Redes sociais:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-alexandre-masuzaki-da-silva-688b87249/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-alexandre-da-silva-correia-688b87249/) 
 [![steam](https://img.shields.io/badge/Steam-005C84?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/L-Alexandre//)
