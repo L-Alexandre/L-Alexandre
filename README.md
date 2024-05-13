@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">Oi 👋, eu sou o Luiz Alexandre! Um estudante apaixonado por desenvolvimento de sistemas.<br><br>🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.<br><br>🔭 Estou procurando minha primeira oportunidade de emprego na área. Meu sonho é trabalhar com desenvolvimento back-end.</p>
+<p align="left">Oi 👋, eu sou o Luiz Alexandre! Um estudante apaixonado por desenvolvimento de sistemas.<br><br> 📚 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.<br><br> 🔍 Estou procurando minha primeira oportunidade de emprego na área. Meu sonho é trabalhar com desenvolvimento back-end.</p>
 
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary>
   <br>
-💬 Tenho 28 anos. Tenho conhecimento com SQL, Python, Java, JavaScript e C#.<br><br>⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/</p>
+💬 Tenho 28 anos. Tenho conhecimento com SQL, Python, Java, JavaScript e C#.<br><br>⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas! </p>
 </details>
 
 <div align="left">
@@ -55,11 +55,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/L-Alexandre/count.svg?"  />
-</div>
-
-###
