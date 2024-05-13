@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi 👋, eu sou o Luiz Alexandre! Um estudante apaixonado por desenvolvimento de sistemas.<br><br>🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.<br><br>🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com desenvolvimento back-end.</p>
+<p align="left">Oi 👋, eu sou o Luiz Alexandre! Um estudante apaixonado por desenvolvimento de sistemas.<br><br>🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.<br><br>🔭 Estou procurando minha primeira oportunidade de emprego na área. Meu sonho é trabalhar com desenvolvimento back-end.</p>
 
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary>
