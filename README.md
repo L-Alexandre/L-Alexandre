@@ -19,9 +19,10 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Alexandre&show_icons=true&theme=gotham)
 
+
 ###
 
-<img src="https://raw.githubusercontent.com/L-Alexandre/L-Alexandre/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/L-Alexandre>/<L-Alexandre>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🔥 Skills
 
